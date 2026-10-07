@@ -1,0 +1,10 @@
+このフォルダに画像を入れてください。
+
+logo.png       → ヘッダーのロゴ
+character.png  → トップのVTuber立ち絵（透過PNG推奨）
+project.jpg    → PROJECT画像
+story.jpg      → STORY画像
+recruit.jpg    → RECRUIT画像
+vision.jpg     → VISION画像
+
+※画像ファイル名をこの名前に合わせるだけで表示されます。
